@@ -1,0 +1,11 @@
+# 本地占卜归档（只进不出，含个人占问记录，绝不上传）
+divination_log.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统
+.DS_Store
+*.log
